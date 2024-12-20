@@ -1,0 +1,28 @@
+.Header{
+    margin: 16px 32px;
+    
+    
+}
+.Header__content{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+    
+}
+
+
+  
+  
+
+  .docker_logo{
+    width: 140px;
+    height: 80px;
+    cursor: pointer;
+    
+    
+  }
+
+  .octicon{
+transition: transform 0.3s ease;
+  }

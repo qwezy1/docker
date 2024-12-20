@@ -1,0 +1,27 @@
+.footer__title{
+    font: 18px Poppins, sans-serif;
+    color: #393F49;
+    margin: 22px 0px 12px;
+    cursor: pointer;
+}
+
+.footer__title:hover{
+    text-decoration: underline;
+}
+
+.footer__text{
+    font: 14px Roboto,sans-serif;
+    color: #393F49;
+    cursor: pointer;
+}
+
+.footer__text:hover{
+    text-decoration: underline;
+}
+
+.footer{
+    display: flex;
+    padding: 100px;
+    gap: 100px   ;
+    background-color: #f9f9fa;
+}

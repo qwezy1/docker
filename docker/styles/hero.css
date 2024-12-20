@@ -1,0 +1,326 @@
+.Hero__content{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whydocker{
+  position: relative;
+  text-align: center;
+
+ 
+}
+
+
+  
+
+  .Hero__content-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 0px 66px;
+    padding: 0px 0px 44px;
+
+  }
+
+  .title{
+   
+    text-align: center;
+    color: #00084d;
+    font-weight: bolder;
+    font-size: 63px;
+    font: 63px Roboto, sans-serif;
+    
+  }
+
+  h4{
+    text-align: center;
+    
+   
+  }
+
+  .imageHero{
+    background-image:url(/images/dbc-docker-desktop-home.webp);
+    width: 1220px;
+    height: 520px;
+  }
+
+  .Hero__content-half{
+    text-align: center;
+    height: 1700px;
+    
+    
+  }
+ 
+ 
+ 
+ 
+
+ .gradient-text{
+  
+  font-size: 24px; 
+  font-weight: bold; 
+  background: linear-gradient(to right, darkblue, rgb(75, 129, 247));
+  -webkit-background-clip: text; 
+ 
+  -webkit-text-fill-color: transparent;
+  display: inline-block; 
+  
+ 
+}
+ 
+
+ .title__link{
+  text-align: center;  
+  font: 24px Roboto,sans-serif;
+  
+
+
+ }
+ 
+ .two_title{
+   font-size: 56px;
+    text-align: center;
+    transform: translateY(-60px);
+    font-weight: bolder;
+    font: 56px Poppins, sans-serif;
+ }
+
+ .subtitle{
+  font-size: 18px;
+  font-weight: lighter;
+  font: 18px Roboto,sans-serif;
+  transform: translateY(-100px);
+ }
+
+ .two_title-new{
+  text-align: left;
+  padding: 30px;
+  color: #00084d;
+  transform: translateY(30px);
+
+  
+ }
+
+ .title__link-new{
+  text-align: left;
+  padding: 30px;
+  color: #00084d;
+  font-weight: lighter;
+  margin-top: 0px;
+  position: relative;
+  top: -60px;
+  transform: translateY(-10px);
+ }
+
+ .subtitle__new{
+  text-align: left;
+  padding: 30px;
+  position: relative;
+  top: -130px;
+  font-weight: lighter;
+  font: 18px Roboto,sans-serif;
+  transform: translateY(-10px);
+  
+}
+
+
+.image-half{
+  transform: translate(450px,-900px);
+  
+  
+}
+
+.image-build{
+  width: 550px;
+  height: 500px;
+}
+
+.button__under{
+  transform: translate(0px,-600px) ;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  
+}
+
+.gradient{
+  font-size: 24px; 
+  font-weight: bold; 
+  background: linear-gradient(to right, darkblue, rgb(75, 129, 247));
+  -webkit-background-clip: text; 
+  background-clip: 1;
+  -webkit-text-fill-color: transparent;
+  display: inline-block; 
+}
+
+.trusted{
+  font-size: 56px;
+    text-align: center;
+    transform: translateY(-60px);
+    font-weight: bold;
+}
+
+.gradient2{
+  font: 80px Roboto, sans-serif;
+  font-weight: bolder;
+}
+
+.stats{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px ;
+}
+
+.trusted_not{
+  font-size: 56px;
+   
+    transform: translateY(-60px);
+    font-weight: bold;
+}
+
+.img_containerdev{
+ float: right;
+ width: 1000px;
+ 
+ 
+}
+
+
+.container_development-text{
+  margin-left: 240px;  
+}
+
+.container_development{
+  display: flex;
+  gap: 130px ;
+}
+
+
+
+.hero__meet{
+  position: relative;
+  text-align: center;
+  align-items: center;
+ 
+}
+
+.title__link-new2{
+  transform: translateX(630px);
+}
+
+
+.hero__end{
+  background-color: #03061E;
+  color: #00084d;
+  height: 850px;
+  border: 1px solid color #03061E;
+  border-radius: 10px;
+}
+
+
+.hero__end{
+  position: relative;
+  text-align: center;
+  align-items: center;
+}
+
+.trusted_white{
+  font-size: 56px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.subtitle_white{
+  font-size: 18px;
+  font-weight: lighter;
+  font: 18px Roboto,sans-serif;
+  color: white;
+}
+
+.logo{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  margin: 80px;
+
+}
+
+.logo1{
+  width: 400px;
+  text-align: left;
+}
+.logo2{
+  width: 400px;
+  text-align: left;
+}
+.logo3{
+  width: 400px;
+  text-align: left;
+}
+
+.title_small{
+  color: white;
+  font: 32px Poppins,sans-serif;
+
+}
+
+.all_logo{
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.all_logo2{
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  
+}
+
+.et_pb_image_wrap{
+  fill: grey;
+  
+}
+
+.last_text{
+  font: 20px Poppins,sans-serif;
+  font-weight: bold
+}
+
+.last_undertext{
+  font: 16px Roboto, sans-serif;
+  color: #677285;
+}
+
+.hero__last-modules{
+  display: flex;
+  justify-content: center;
+}
+
+
+.last_blue-module{
+
+  height: 255px;
+  width: 1300px;
+  background-color: #1d63ed;
+  border-radius: 20px;
+  padding: 50px;
+
+  
+}
+
+.help{
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+.title_last-module{
+  font: 38px Poppins, sans-serif;
+  color: white;
+  font-weight: bolder;
+
+}
